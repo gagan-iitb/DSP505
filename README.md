@@ -15,8 +15,9 @@ __Datasets___
 
 __Grading Scheme__
 
-* Lab Exercises - 45% 
-* Assignment (two) - 20%  
+* Weekly Lab Exercises  - 40%
+* Data Analysis Project - 30%
+* Viva - 30%  
   
 __Textbooks__
 
