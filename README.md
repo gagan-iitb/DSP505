@@ -18,6 +18,17 @@ __Grading Scheme__
 * Weekly Lab Exercises  - 40%
 * Data Analysis Project - 30%
 * Viva - 30%  
+
+__Topics__
+Basic Python Coding and Data handling - Lists, Dictionary, Tuples, Sets, Functions/Recursion, File Handling, Numpy, Pandas;
+
+Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE;
+
+Low Code Data Analysis and Visualization Tools: Tableau/Alteryx; Graph Analysis - NetworkX, Gephi and Neo4J;
+
+Basic ML - SKLearn - SVM, Decision Trees, Random Forests, Linear Regression, Logistic Regression
+
+Data Storage and Search: SQL, MongoDB, ElasticSearch; Data Scraping – Crawling using API, Scraping Html/CSS, Legality; Big Data handling - Map-Reduce, Hadoop.
   
 __Textbooks__
 
