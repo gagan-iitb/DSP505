@@ -32,7 +32,20 @@ Data Storage and Search: SQL, MongoDB, ElasticSearch; Data Scraping – Crawling
   
 __Textbooks__
 
-Python for Data Analysis, Wes McKinney, https://wesmckinney.com/book/ 
+* Python for Data Analysis, Wes McKinney, https://wesmckinney.com/book/ 
+* A byte of python: https://python.swaroopch.com/
+
+__Tutorials__
+
+* Numpy: https://cs231n.github.io/python-numpy-tutorial/
+* Numpy user guide: https://numpy.org/doc/stable/user/index.html
+* Pandas: https://nbviewer.org/github/RandyBetancourt/PythonForSASUsers/tree/master/
+
+__Practice Problems___
+
+* Python: https://github.com/karan/Projects
+* 
+
 
 
 
