@@ -44,7 +44,12 @@ __Tutorials__
 __Practice Problems___
 
 * Python: https://github.com/karan/Projects
-* 
+* https://github.com/rougier/numpy-100
+https://favtutor.com/blogs/numpy-exercises-python
+
+https://www.kaggle.com/code/icarofreire/pandas-24-useful-exercises-with-solutions
+https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles-with-solutions.ipynb
+
 
 
 
