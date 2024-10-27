@@ -21,9 +21,13 @@ __Grading Scheme__
 
 __Topics__
 Basic Python Coding and Data handling - Lists, Dictionary, Tuples, Sets, Functions/Recursion, File Handling, Numpy, Pandas;
+
 Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE;
+
 Prompt Engineering
+
 Low Code Data Analysis and Visualization Tools: Tableau/Alteryx; Graph Analysis - NetworkX, Gephi and Neo4J;
+
 Data Storage and Search: SQL, MongoDB, ElasticSearch; Data Scraping – Crawling using API, Scraping Html/CSS, Legality; Big Data handling - Map-Reduce, Hadoop.
   
 __Textbooks__
